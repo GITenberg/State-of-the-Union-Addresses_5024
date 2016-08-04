@@ -1,0 +1,30 @@
+_repo: State-of-the-Union-Addresses_5024
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lincoln, Abraham
+    aliases:
+    - United States President (1861-1865)
+    - Lincoln, Abe
+    birthdate: 1809
+    deathdate: 1865
+    gutenberg_agent_id: '3'
+    url: http://www.gutenberg.org/2009/agents/3
+    wikipedia: http://en.wikipedia.org/wiki/Abraham_Lincoln
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5024'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Presidents -- United States -- Messages'
+- !lcsh 'United States -- Politics and government -- Sources'
+- !lcc 'J'
+- GITenberg
+title: State of the Union Addresses
+url: http://www.gutenberg.org/ebooks/5024
